@@ -1,0 +1,12 @@
+{
+  "group": "filedrop*",
+  "trigger": "conatus",
+  "membersOnly": true,
+  "maxStorage": "100kb",
+  "adminSecret": "test-secret",
+  "adminGroupRoles": [],
+  "language": "en",
+  "timezone": "UTC",
+  "notifyDelaySeconds": 2,
+  "rateLimit": 60
+}

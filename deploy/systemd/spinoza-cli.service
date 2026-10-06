@@ -1,0 +1,15 @@
+# SimpleX CLI for the file bot (user service). Install to ~/.config/systemd/user/
+[Unit]
+Description=SimpleX Chat CLI for spinoza
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=%h/.local/bin/simplex-chat -p 5225 -d %h/spinoza/db/chat --files-folder %h/spinoza/archive --temp-folder %h/spinoza/tmp --create-bot-display-name spinoza --create-bot-allow-files -y
+WorkingDirectory=%h/spinoza
+Environment=LANG=C.UTF-8
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

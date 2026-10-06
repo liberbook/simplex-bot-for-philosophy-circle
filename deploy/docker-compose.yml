@@ -1,0 +1,25 @@
+# The bot as one container (SimpleX CLI + bot process) on the real SimpleX
+# network. Everything it owns is in ./data: spinoza.json (settings), db/,
+# files/ (the archive), state/, tmp/. See INSTALL.md.
+name: spinoza
+
+services:
+  spinoza:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+      args:
+        SIMPLEX_VERSION: ${SIMPLEX_VERSION:-7.0.2}   # release version or "latest"; see scripts/update-cli.sh
+        SIMPLEX_SHA256: ${SIMPLEX_SHA256-895fb14cfaa662d1c0947f2f871141fc89680fe3e70bff64c366cbe9e59aa4f0}  # checksum of that release; empty = unverified
+        BUILD_INFO: ${BUILD_INFO:-dev}               # shown in the log and /status; set by the update scripts
+    environment:
+      BOT_NAME: ${BOT_NAME:-spinoza}                 # display name, applied when the profile is created
+      SERVER_ARGS: ${SERVER_ARGS:-}                  # e.g. "-s smp://fp@your.relay" to use your own relays
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
+    logging:                                         # the bot writes to stdout only; Docker keeps it
+      driver: json-file
+      options:
+        max-size: "100k"                             # 300 KB of log per container in total
+        max-file: "3"                                # rotated, so history survives a rotation

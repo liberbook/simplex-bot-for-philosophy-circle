@@ -1,0 +1,7 @@
+node_modules/
+archive/
+docker/cli/bin/*
+!docker/cli/bin/.gitkeep
+deploy/data/
+deleted/
+CLAUDE.md

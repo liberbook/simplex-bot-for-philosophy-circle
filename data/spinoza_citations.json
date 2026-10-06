@@ -1,0 +1,236 @@
+{
+  "source": "Spinoza, Ethica - Latin quotations with Russian translation; ref = identifier for /ethics; show_in_spinoza_help = short enough for the /spinoza reply",
+  "citations": [
+    {
+      "latin": "Deus sive Natura.",
+      "translation_ru": "Бог, или Природа.",
+      "source": "Ethica, IV, Praefatio",
+      "ref": "Э4пред",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Per Deum intelligo ens absolute infinitum.",
+      "translation_ru": "Под Богом я понимаю существо абсолютно бесконечное.",
+      "source": "Ethica, I, Definitio 6",
+      "ref": "Э1опр6",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Ea res libera dicitur, quae ex sola suae naturae necessitate existit.",
+      "translation_ru": "Свободной называется такая вещь, которая существует по одной только необходимости своей собственной природы.",
+      "source": "Ethica, I, Definitio 7",
+      "ref": "Э1опр7",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Ad naturam substantiae pertinet existere.",
+      "translation_ru": "Природе субстанции присуще существование.",
+      "source": "Ethica, I, Propositio 7",
+      "ref": "Э1т7",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Deus, sive substantia constans infinitis attributis, necessario existit.",
+      "translation_ru": "Бог, то есть субстанция, состоящая из бесконечно многих атрибутов, необходимо существует.",
+      "source": "Ethica, I, Propositio 11",
+      "ref": "Э1т11",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Praeter Deum nulla dari neque concipi potest substantia.",
+      "translation_ru": "Кроме Бога никакая субстанция не может ни существовать, ни быть представляема.",
+      "source": "Ethica, I, Propositio 14",
+      "ref": "Э1т14",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Quicquid est, in Deo est, et nihil sine Deo esse neque concipi potest.",
+      "translation_ru": "Всё, что существует, существует в Боге, и без Бога ничто не может ни существовать, ни быть представляемо.",
+      "source": "Ethica, I, Propositio 15",
+      "ref": "Э1т15",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Ex necessitate divinae naturae infinita infinitis modis sequi debent.",
+      "translation_ru": "Из необходимости божественной природы должно вытекать бесконечно многое бесконечно многими способами.",
+      "source": "Ethica, I, Propositio 16",
+      "ref": "Э1т16",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Deus ex solis suae naturae legibus et a nemine coactus agit.",
+      "translation_ru": "Бог действует по одним только законам своей природы и никем не принуждается.",
+      "source": "Ethica, I, Propositio 17",
+      "ref": "Э1т17",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Deus est omnium rerum causa immanens, non vero transiens.",
+      "translation_ru": "Бог есть имманентная, а не переходящая причина всех вещей.",
+      "source": "Ethica, I, Propositio 18",
+      "ref": "Э1т18",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "In rerum natura nullum datur contingens.",
+      "translation_ru": "В природе вещей нет ничего случайного.",
+      "source": "Ethica, I, Propositio 29",
+      "ref": "Э1т29",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Ordo et connexio idearum idem est ac ordo et connexio rerum.",
+      "translation_ru": "Порядок и связь идей те же, что порядок и связь вещей.",
+      "source": "Ethica, II, Propositio 7",
+      "ref": "Э2т7",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Objectum ideae humanam Mentem constituentis est Corpus.",
+      "translation_ru": "Объектом идеи, составляющей человеческую душу, является тело.",
+      "source": "Ethica, II, Propositio 13",
+      "ref": "Э2т13",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Qui veram habet ideam, simul scit se veram habere ideam.",
+      "translation_ru": "Тот, кто имеет истинную идею, вместе с тем знает, что имеет истинную идею.",
+      "source": "Ethica, II, Propositio 43",
+      "ref": "Э2т43",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Mens humana aeternam et infinitam Dei essentiam adaequatam habet cognitionem.",
+      "translation_ru": "Человеческая душа имеет адекватное познание вечной и бесконечной сущности Бога.",
+      "source": "Ethica, II, Propositio 47",
+      "ref": "Э2т47",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Voluntas et intellectus unum et idem sunt.",
+      "translation_ru": "Воля и разум одно и то же.",
+      "source": "Ethica, II, Propositio 49, Corollarium",
+      "ref": "Э2т49кор1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Conatus, quo unaquaeque res in suo esse perseverare conatur, nihil est praeter ipsius rei actualem essentiam.",
+      "translation_ru": "Стремление, с которым всякая вещь стремится пребывать в своём существовании, есть не что иное, как действительная сущность самой вещи.",
+      "source": "Ethica, III, Propositio 7",
+      "ref": "Э3т7",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Cupiditas est ipsa hominis essentia.",
+      "translation_ru": "Желание есть сама сущность человека.",
+      "source": "Ethica, III, Affectuum Definitiones, Definitio 1",
+      "ref": "Э3афф1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Homo liber de nulla re minus quam de morte cogitat; et ejus sapientia non mortis, sed vitae meditatio est.",
+      "translation_ru": "Свободный человек ни о чём так мало не думает, как о смерти; его мудрость состоит в размышлении не о смерти, а о жизни.",
+      "source": "Ethica, IV, Propositio 67",
+      "ref": "Э4т67",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Sed omnia praeclara tam difficilia quam rara sunt.",
+      "translation_ru": "Но всё прекрасное так же трудно, как и редко.",
+      "source": "Ethica, V, Propositio 42, Scholium",
+      "ref": "Э5т42сх1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Quicquid est, in Deo est.",
+      "translation_ru": "Всё, что существует, существует в Боге.",
+      "source": "Ethica, I, Propositio 15",
+      "ref": "Э1т15",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Nulla res nisi a causa externa potest destrui.",
+      "translation_ru": "Никакая вещь не может быть уничтожена иначе как внешней причиной.",
+      "source": "Ethica, III, Propositio 4",
+      "ref": "Э3т4",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Affectus, qui passio est, desinit esse passio, simulatque eius claram et distinctam formamus ideam.",
+      "translation_ru": "Аффект, являющийся страстью, перестаёт быть страстью, как только мы образуем о нём ясную и отчётливую идею.",
+      "source": "Ethica, V, Propositio 3",
+      "ref": "Э5т3",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Dei potentia nihil est praeterquam Dei actuosa essentia.",
+      "translation_ru": "Могущество Бога есть не что иное, как деятельная сущность Бога.",
+      "source": "Ethica, I, Propositio 34",
+      "ref": "Э1т34",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Quicquid existit, Dei potentiam, quae omnium rerum causa est, certo et determinato modo exprimit.",
+      "translation_ru": "Всё, что существует, выражает определённым и конкретным образом могущество Бога, являющееся причиной всех вещей.",
+      "source": "Ethica, I, Propositio 36, Demonstratio",
+      "ref": "Э1т36док",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Potentia sive conatus, quo ipsa vel sola vel cum aliis quidquam agit vel agere conatur, nihil est praeter ipsius rei datam sive actualem essentiam.",
+      "translation_ru": "Мощь, или стремление, посредством которого вещь одна или вместе с другими действует либо стремится действовать, есть не что иное, как данная, то есть действительная, сущность самой вещи.",
+      "source": "Ethica, III, Propositio 7, Demonstratio",
+      "ref": "Э3т7док",
+      "show_in_spinoza_help": false
+    },
+    {
+      "latin": "Mens nostra quatenus adaequatas habet ideas, quaedam necessario agit.",
+      "translation_ru": "Наша душа, поскольку она имеет адекватные идеи, необходимо действует в некоторых отношениях.",
+      "source": "Ethica, III, Propositio 1",
+      "ref": "Э3т1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Mentis actiones ex solis ideis adaequatis oriuntur.",
+      "translation_ru": "Действия души возникают только из адекватных идей.",
+      "source": "Ethica, III, Propositio 3",
+      "ref": "Э3т3",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Cupiditas est appetitus cum eiusdem conscientia.",
+      "translation_ru": "Желание есть влечение с осознанием этого влечения.",
+      "source": "Ethica, III, Propositio 9, Scholium",
+      "ref": "Э3т9сх1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Nihil nos conari, velle, appetere neque cupere quia id bonum esse iudicamus; sed contra nos propterea aliquid bonum esse iudicare quia id conamur, volumus, appetimus atque cupimus.",
+      "translation_ru": "Мы стремимся к чему-либо, желаем, влечёмся и хотим этого не потому, что считаем это добром; напротив, мы считаем что-либо добром потому, что стремимся к нему, желаем его, влечёмся к нему и хотим его.",
+      "source": "Ethica, III, Propositio 9, Scholium",
+      "ref": "Э3т9сх1",
+      "show_in_spinoza_help": false
+    },
+    {
+      "latin": "Quo plus perfectionis res aliqua habet, eo plus agit et minus patitur.",
+      "translation_ru": "Чем больше совершенства имеет какая-либо вещь, тем больше она действует и тем меньше страдает.",
+      "source": "Ethica, V, Propositio 40",
+      "ref": "Э5т40",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Si duo eiusdem prorsus naturae individua invicem junguntur, individuum componunt singulo duplo potentius.",
+      "translation_ru": "Если два индивидуума совершенно одинаковой природы соединяются друг с другом, они составляют индивидуум, вдвое более могущественный, чем каждый из них по отдельности.",
+      "source": "Ethica, IV, Propositio 18, Scholium",
+      "ref": "Э4т18сх1",
+      "show_in_spinoza_help": true
+    },
+    {
+      "latin": "Homini igitur nihil homine utilius.",
+      "translation_ru": "Следовательно, для человека нет ничего полезнее человека.",
+      "source": "Ethica, IV, Propositio 18, Scholium",
+      "ref": "Э4т18сх1",
+      "show_in_spinoza_help": true
+    }
+  ]
+}

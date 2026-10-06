@@ -1,0 +1,18 @@
+{
+  "group": "My Team",
+  "groupLinks": [
+    "https://smp15.simplex.im/g#paste-the-group-link-here"
+  ],
+  "trigger": "conatus",
+  "membersOnly": true,
+  "maxStorage": "100gb",
+  "adminSecret": "change-me-to-a-long-random-secret",
+  "adminGroupRoles": [
+    "owner",
+    "admin"
+  ],
+  "publicAddress": true,
+  "language": "en",
+  "timezone": "Europe/Moscow",
+  "reminderMinutes": 30
+}

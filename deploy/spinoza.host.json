@@ -1,0 +1,20 @@
+{
+  "server": "ws://127.0.0.1:5225",
+  "dir": "~/spinoza/archive",
+  "deletedDir": "~/spinoza/deleted",
+  "stateDir": "~/spinoza/state",
+  "group": "My Team",
+  "groupLinks": [
+    "https://smp15.simplex.im/g#paste-the-group-link-here"
+  ],
+  "trigger": "conatus",
+  "membersOnly": true,
+  "maxStorage": "100gb",
+  "adminSecret": "change-me-to-a-long-random-secret",
+  "adminGroupRoles": [
+    "owner",
+    "admin"
+  ],
+  "publicAddress": true,
+  "language": "en"
+}

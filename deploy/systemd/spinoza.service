@@ -1,0 +1,14 @@
+# The file bot process (user service). Install to ~/.config/systemd/user/
+[Unit]
+Description=SimpleX file archive bot
+Requires=spinoza-cli.service
+After=spinoza-cli.service
+
+[Service]
+ExecStart=/usr/bin/node %h/spinoza/app/src/main.js --config %h/spinoza/config.json
+WorkingDirectory=%h/spinoza
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

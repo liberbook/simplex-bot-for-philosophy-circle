@@ -1,0 +1,35 @@
+{
+  "name": "simplex-bot-for-philosophy-circle",
+  "version": "1.2.0",
+  "description": "SimpleX Chat bot for a philosophy circle: keeps the group's files, runs the weekly meeting and its schedule, holds polls, answers questions about Spinoza's Ethics",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test \"test/unit/*.test.js\"",
+    "test:e2e": "bash scripts/e2e.sh",
+    "doc": "node scripts/interface-doc.js"
+  },
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberbook/simplex-bot-for-philosophy-circle.git"
+  },
+  "homepage": "https://github.com/liberbook/simplex-bot-for-philosophy-circle#readme",
+  "bugs": {
+    "url": "https://github.com/liberbook/simplex-bot-for-philosophy-circle/issues"
+  },
+  "keywords": [
+    "simplex",
+    "simplex-chat",
+    "bot",
+    "chatbot",
+    "reading-group",
+    "book-club",
+    "file-archive",
+    "polls",
+    "spinoza"
+  ]
+}
